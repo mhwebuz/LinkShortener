@@ -4,7 +4,7 @@ LinkShortener
 
 
 ### Telegram :
-<a href="https://t.me/mhwwebuzb"><img src="https://img.shields.io/badge/Group-blue.svg?logo=telegram"></a><br>
+<a href="https://t.me/mhwwebuzb"><img src="https://img.shields.io/badge/Group-blue.svg?logo=telegram"></a>
 <a href="https://t.me/mhwwebuz"><img src="https://img.shields.io/badge/Channel-blue.svg?logo=telegram"></a>
  
 ### Video :
