@@ -3,8 +3,9 @@ LinkShortener
 <div>
 
 
-### Group :
-<a href="https://t.me/mhwwebuzb"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+### Telegram :
+<a href="https://t.me/mhwwebuzb"><img src="https://img.shields.io/badge/Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/mhwwebuz"><img src="https://img.shields.io/badge/Channel-blue.svg?logo=telegram"></a>
  
 ### Video :
 [![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube)](https://youtu.be/9dvd8iMgCIA) 
