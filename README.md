@@ -1,7 +1,6 @@
-
-<div align="center">
 LinkShortener
 ============
+<div>
 <br><p align="center"><b>Viewers</b></p> 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{mhwebuz}/count.svg"/></p>  <hr>
 
