@@ -20,6 +20,6 @@ LinkShortener
 <a href="https://t.me/mhwwebuzb"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 </p>
 <p>
-<a href="https://www.youtube.com/channel/UCf2q9LbhMtmKFCLrn5zdrhg"><img src="https://img.shields.io/badge/YouTube-Subscribe-inactive.svg?logo=youtube"></a>
+<a href="https://www.youtube.com/channel/UCf2q9LbhMtmKFCLrn5zdrhg"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube"></a>
 </p>
 
