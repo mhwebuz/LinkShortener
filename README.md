@@ -3,11 +3,11 @@ LinkShortener
 <div>
 
 
-### Support Group
+### Group :
 <a href="https://t.me/mhwwebuzb"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
  
-### Video Tutorial:
-[![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/9dvd8iMgCIA) 
+### Video :
+[![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube)](https://youtu.be/9dvd8iMgCIA) 
 
 ### Follow on:
 <p>
