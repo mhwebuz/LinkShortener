@@ -9,13 +9,13 @@ LinkShortener
  
 ### Video :
 [![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube)](https://youtu.be/9dvd8iMgCIA) 
-
+ 
 ### Demo :
-<a href="https://lasl.herokuapp.com/"><img src="https://img.shields.io/badge/Site-blue.svg?logo=web"></a>
+<a href="https://lasl.herokuapp.com/">https://lasl.herokuapp.com/</a> 
 
 ### Follow on:
 <p>
-<a href="https://github.com/mhwebuz"></a>
+<a href="https://github.com/mhwebuz"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 <p>
 <a href="https://twitter.com/mhwebuz"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
