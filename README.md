@@ -15,7 +15,7 @@ LinkShortener
 
 ### Follow on:
 <p>
-<a href="https://github.com/mhwebuz"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/mhwebuz"></a>
 </p>
 <p>
 <a href="https://twitter.com/mhwebuz"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
