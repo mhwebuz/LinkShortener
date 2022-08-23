@@ -5,7 +5,7 @@ include "functions/database.php";
 $data = $db->query("SELECT * FROM settings");
 $info = $db->fetch_array($data);
 
-$url_reg = '/((([A-Za-z]{3,9}:(?:\/\/)?)(?:[-;:&=\+\$,\w\]+@)?[A-Za-z0-9.-]+|(?:www.|[-;:&=\+\$,\w\]+@)[A-Za-z0-9.-]+)((?:\/[\+~%\/.\w\-_]*)?\??(?:[-\+=&;%@.\w\_]*)#?(?:[.\!\/\\\\w\]*))?)/i';
+$url_reg = '/((([A-Za-z]{3,9}:(?:\/\/)?)(?:[-;:&=\+\$,\w]+@)?[A-Za-z0-9.-]+|(?:www.|[-;:&=\+\$,\w]+@)[A-Za-z0-9.-]+)((?:\/[\+~%\/.\w\-_]*)?\??(?:[-\+=&;%@.\w\_]*)#?(?:[.\!\/\\\\w]*))?)/i';
 
 $verify = preg_match($url_reg, $_POST['longurl'],$new_url);
 $cust = $_POST['cust'];
