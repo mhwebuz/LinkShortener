@@ -13,11 +13,11 @@ $shr = $db->escape_value($_GET['id']);
 
 $getLink = $db->query("SELECT URL, date, hits, id, pass FROM links WHERE BINARY link = '$shr'");
 $getLink = $db->fetch_array($getLink);
-$url = $getLink["URL"];
-$date = $getLink["date"];
-$hits = $getLink["hits"];
-$id = $getLink["id"];
-$pass = $getLink["pass"];
+$url = isset($getLink["URL"]);
+$date = isset($getLink["date"]);
+$hits = isset($getLink["hits"]);
+$id = isset($getLink["id"]);
+$pass = isset($getLink["pass"]);
 
 if ($url == !'') {
 
