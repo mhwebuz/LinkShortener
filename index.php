@@ -1,6 +1,6 @@
 ﻿<?php
 if (!(include "functions/database.php")) {
-    echo "<a href='mherzuy/index.html'>Please Install the script first or make sure it is installed correctly.</a>";
+    echo "<a href='install/index.html'>Please Install the script first or make sure it is installed correctly.</a>";
     exit;
 }
 include "functions/count.php";
