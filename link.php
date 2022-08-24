@@ -29,7 +29,7 @@ if ($url == !'') {
 
 
     if ($pass != '') { //link has password
-        if ($_POST['txtpass'] != $pass) {
+        if (isset($_POST['txtpass'] != $pass)) {
             include "functions/password.php";
         } else {
             include "functions/redirect.php";
