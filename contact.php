@@ -72,7 +72,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && $_GET["op"] == "contact") {
         <div class="well">
           <form class="form-horizontal" action="contact?op=contact" method="post">
           <fieldset>
-            <legend class=""><h2 style="margin:0">Contact us</h2></legend>
+            <legend class=""><h2 style="margin:0">Contact Us</h2></legend>
     
             <!-- Name input-->
             <div class="form-group">
