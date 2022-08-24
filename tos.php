@@ -59,7 +59,6 @@ $info = $db->fetch_array($data);
                             <p>Do not spam the website, Do not spam the website, Do not spam the website, Do not spam the website</p>
                             <p>Do not spam the website</p>
                             <p>Do not short virus, malware links</p>
-                            <p>using service you should know : Lorem ipsum dolor sit amet consectetur adipisicing elit. A, dolores! Iusto sequi sint fuga beatae ex ad ea aliquam perspiciatis ullam harum error, ducimus similique, voluptas doloremque iste esse ipsum. </p>
                         </div>
 
                     </div><!-- /.modal-content -->
