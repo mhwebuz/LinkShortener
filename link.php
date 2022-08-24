@@ -1,4 +1,5 @@
 ﻿<?php
+error_reporting(0);
 include "functions/database.php";
 
 
@@ -30,7 +31,7 @@ if ($url == !'') {
 
 
     if ($pass != '') { //link has password
-        if (!empty($_POST['txtpass'] != $pass)) {
+        if ($_POST['txtpass'] != $pass) {
             include "functions/password.php";
         } else {
             include "functions/redirect.php";
