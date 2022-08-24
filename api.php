@@ -82,7 +82,7 @@ if (in_array($cust, $spam)) {
         $action = $db->query("INSERT INTO links (URL, link, pass, custom, last_visit) 
                     VALUES ('$long','$rand1','$npass','$is_cust', NOW())");
         if (!$action) {
-            $json_return["error"] = "Internal Server Error ".mysqli_errno();
+            $json_return["error"] = "Internal Server Error : ".mysqli_errno();
         } else {
             $json_return["longurl"] = $long;
             $json_return["shorturl"] = $myweb . '/' . $rand1;
