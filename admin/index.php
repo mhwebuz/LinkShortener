@@ -45,7 +45,7 @@ $info = $db->fetch_array($data);
                     <div class="col-lg-4 text-center">
                         <div class="panel panel-default">
                             <div class="panel-body" style="background-color:#428bca; color:white;">
-                                <h2 class="newsize" style="font-weight:bolder;">Total hits</h2>
+                                <h2 class="newsize" style="font-weight:bolder;">Total Hits</h2>
                                 <h2 class="newsize" style="letter-spacing:1px;"><?php echo $num_rows3; ?></h2>
                             </div>
                         </div>

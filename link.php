@@ -1,4 +1,5 @@
 ﻿<?php
+error_reporting(0);
 include "functions/database.php";
 
 
@@ -18,6 +19,7 @@ $date = isset($getLink["date"]);
 $hits = isset($getLink["hits"]);
 $id = isset($getLink["id"]);
 $pass = isset($getLink["pass"]);
+$txtpass = isset($getLink["txtpass"]);
 
 if ($url == !'') {
 

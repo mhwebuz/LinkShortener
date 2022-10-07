@@ -8,5 +8,5 @@ RewriteRule ^404                  404.php [L]
 
 
 Options -Indexes
-ErrorDocument 404 http://localhost/shortny/404
-ErrorDocument 403 http://localhost/shortny/404
+ErrorDocument 404 https://lasl.herokuapp.com/404
+ErrorDocument 403 https://lasl.herokuapp.com/404
