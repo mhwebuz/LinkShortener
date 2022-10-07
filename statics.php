@@ -65,7 +65,7 @@ $ads_info = $db->fetch_array($ads);
                     <ul class="nav nav-tabs statics-tabs">
                         <li class="active"><a href="#new" data-toggle="tab">New</a></li>
                         <li class=""><a href="#pop" data-toggle="tab">Popular</a></li>
-                        <li class=""><a href="#rec" data-toggle="tab">Recently Visited</a></li>
+                        <li class=""><a href="#rec" data-toggle="tab">Recently Visted</a></li>
                     </ul>
                     <div id="myTabContent" class="tab-content">
                         <div class="tab-pane fade active in" id="new" >

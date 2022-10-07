@@ -17,7 +17,7 @@ $pass = $sql["pass"];
 $last_visit = $sql["last_visit"];
 
 if ($url == '') {
-    $error_msg = "Link you followed is not found!";
+    $error_msg = "Link you followed is not found";
     include "functions/error.php"; //error page
     $db->close_connection();
     exit;
